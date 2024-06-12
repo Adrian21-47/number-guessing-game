@@ -1,0 +1,5 @@
+name=input("What is your name? ")
+name2=input("What is your second name? ")
+print("Hello "+name +   name2)
+city= input("What is the name of your favourite city?")
+print("I love visiting "+city)

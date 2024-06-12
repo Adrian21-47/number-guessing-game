@@ -1,0 +1,5 @@
+print("Question:What is your favourite food?")
+print("Answer:Chiken")
+help("print")
+print(5)
+print(5+3)
